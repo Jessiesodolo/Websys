@@ -1,0 +1,43 @@
+{
+    "favoritesongs": [
+        {
+            "title": "Don't",
+            "artist": "Bryson Tiller",
+            "album": "TRAPSOUL",
+            "date": "2015",
+            "genre": "Rap",
+            "url": "https://soundcloud.com/brysontiller",
+            "cover":"pictures/bryson-tiller-trapsoul.jpg"
+        },
+         {
+            "title": "Lady",
+            "artist": "D'Angelo",
+            "album": "Brown Sugar",
+            "date":"1997",
+            "genre":"Neo-Soul",
+            "url":"https://blackmessiah.co/",
+            "cover":"pictures/fed.jpg"
+        },
+         {
+            "title": "Drunk Texting",
+            "artist": "Chris Brown",
+            "album": "X",
+            "date":"2013",
+            "genre":"R&B",
+            "url":"http://video.chrisbrownworld.com/",
+            "cover":"pictures/future-monster1.jpg"
+        },
+        {
+            "title": "NWTS",
+            "artist": "Drake",
+            "album": "NWTS",
+            "date":"2013",
+            "genre":"Rap",
+            "url":"http://www.drakeofficial.com/",
+            "cover":"pictures/NWTS(1).jpg"
+        }
+        
+    ]
+}
+
+

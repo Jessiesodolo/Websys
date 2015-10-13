@@ -1,0 +1,110 @@
+html, body {
+        margin:0;
+        padding:0;
+        height:100%;
+}
+
+#container {
+	width:100%;
+	min-height: 100%;
+	float:left;
+	position:relative;
+	overflow: hidden;
+}
+#midlevel{
+	width:80%;
+	float:left;
+	position:relative;
+	left:10%;
+	border-style: double;
+}
+
+.col{
+	float:left;
+	display:inline-block;
+	position:relative;
+}
+
+
+img {
+	width: 100px;
+	height: 100px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	display: block;
+}
+li {
+	list-style-type:none;
+}
+a{
+	color:blue;
+	margin-bottom: 110px;
+	display: block;
+}
+.headers{
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-bottom: 120px;
+	text-align: center;
+}
+h1 li{
+	font-variant: small-caps;
+	font-size: 18px;
+	color: green;
+	margin-bottom: 100px;
+	margin-top: 25px;
+
+}
+h2#artist li {
+	font-weight: bolder;
+	margin-bottom: 100px;
+	text-align: center;
+	margin-top: 25px;
+
+}
+h2#album li{
+	font-style: italic;
+	margin-bottom: 100px;
+	text-align: center;
+	margin-top: 25px;
+	
+}
+ul#genres.col li{
+	list-style-type: circle;
+	list-style-position: inside;
+	color: red;
+	font-size:10px;
+	margin-bottom: 120px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+p#date.col li{
+	display:block;
+	font-size:10px;
+	text-align: center;
+	margin-top: 35px;
+	margin-bottom: 120px;
+	color: red;
+}
+
+
+.align{
+	margin-bottom: 75px;
+}
+a#site{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height:0%;
+}
+a.site{
+	color:blue;
+	text-align: center;
+	margin-bottom: 112px;
+	margin-top: 45px;
+}
+
+#moveleft{
+	text-align: left;
+}
